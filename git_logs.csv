@@ -1,11 +1,11 @@
 Status,Expected_Code
-Git Correct,1
-Git Error,2
-Git in test,3
-Git Exception,4
-Git Correct,5
-Git Error,6
-Git in test,7
-Git Exception,8
-Git Correct,9
-Git Error,10
+Git Correct,0
+Git Error,1
+Git in test,2
+Git Exception,3
+Git Correct,0
+Git Error,1
+Git in test,2
+Git Exception,404
+Git Correct,0
+Git Error,1
